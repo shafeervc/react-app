@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React for Ampliy auto deployment & redeploy automatically  !!!!!
+          Sample for demo  !!!!!
         </a>
       </header>
     </div>
