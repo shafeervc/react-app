@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Sample for demo  & Name changed!!!!!
+          Sample for demo after base image change  & Name changed!!!!!
         </a>
       </header>
     </div>
